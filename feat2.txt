@@ -1,1 +1,2 @@
 mi archivo Ligia
+Modificando el archivo feat2 desde la rama feature/feat2
