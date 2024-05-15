@@ -2,7 +2,7 @@
 
 ## 1. Branch Strategy Simulation
 
-![clonar repo](screens/branch.png)
+![clonar repo](screens/branchs.png)
 
 
 ## 2. Resolución de conflictos y fusión
